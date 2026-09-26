@@ -17,6 +17,6 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TITI-UXI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TITI-UXI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TITI-UXI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TITI-UXI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="45%" />
 </p>
